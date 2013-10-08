@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softable", "Softable.csproj", "{F104B803-6C0B-47D2-8AED-384821DA5D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F104B803-6C0B-47D2-8AED-384821DA5D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F104B803-6C0B-47D2-8AED-384821DA5D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F104B803-6C0B-47D2-8AED-384821DA5D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F104B803-6C0B-47D2-8AED-384821DA5D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
